@@ -1,4 +1,4 @@
-# bachelorthesis
+# Bachelor thesis
 Code used to develop my Bachelor's thesis (Implementation of a multi-layer neural network). It was developed at Technical University of Denmark (DTU) at DTU Fotonik.
 The goal of the project is to create a multi-layer neural network from scratch.
 
